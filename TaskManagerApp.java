@@ -1,7 +1,8 @@
 /**
  * This class creates the user interface for the Task Manager.
  * It handles adding, completing, deleting, and resetting tasks.
- */import javafx.scene.control.*;
+ */
+import javafx.scene.control.*;
 import javafx.scene.layout.*;
 import javafx.scene.paint.Color;
 import javafx.scene.text.Text;
